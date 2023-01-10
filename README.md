@@ -37,17 +37,17 @@ These are:
 ***Public Tree Data***
 Provide a list of all trees in the borough, which can be downloaded by the public for free from the Camden Council website. The Borough of Camden is committed to the “opendata” initiative and are interested in opening their data as much as possible to its citizens and to the world.
 
-The deliverables presented are:
-
 ***Tree Walks Brochures***
 Create a series of “Tree Walks” brochures, each one of which is a guided walk around an individual park showing a map of the location of interesting trees.
-
-The deliverables presented are:
 
 ***Environment Report***
 Put up a single page on the Camden Council website showing the total carbon and pollution benefit provided by all their trees. This will also show information about trees removed, trees planted and the net carbon and pollution impact of this activity.
 
 The deliverables presented are:
+1. The Jupyter Notebook, which will also serve as the Data Quality Report
+2. Data Source List
+3. Data Requirements
+4. A project review presentation that you could use to brief a junior data analyst at a later stage
 
 **Project 4 - Retrieve User Activity Data on an Online Forum Using SQL**
 The inteaction data from an online forum was analysed using SQL by answering some specific questions about user activity (interaction) on the sites. The datasets were cleaned and formatting into three -users, posts & comments.
