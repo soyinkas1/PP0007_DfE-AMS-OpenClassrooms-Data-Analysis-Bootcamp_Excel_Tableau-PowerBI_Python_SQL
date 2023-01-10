@@ -128,6 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Project 1 untracked
-project*/Workbench
+# Project untracked
+*Project*/*Workbench*
 
